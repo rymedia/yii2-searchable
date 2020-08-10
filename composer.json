@@ -14,7 +14,7 @@
         "php": ">=7.1",
         "yiisoft/yii2": ">=2.0.14.2",
         "yiisoft/yii2-queue": "^2.2",
-        "teamtnt/tntsearch": "~2.0"
+        "teamtnt/tntsearch": "~2.3"
     },
     "autoload": {
         "psr-4": {
